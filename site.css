@@ -35,5 +35,8 @@ footer{
 }
 main a{
     color: #851944;
+}
+aside a{
     font-family: "Open Sans Condensed",sans-serif;
+    color: inherit;
 }
