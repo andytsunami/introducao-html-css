@@ -27,6 +27,7 @@ blockquote{
     padding: 20px;
     border: 10px #C2CCCA solid;
     width: 250px;
+    box-sizing: border-box;
 }
 
 nav{
