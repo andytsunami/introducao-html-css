@@ -10,13 +10,13 @@ h1, h2{
 
 main h1{
     padding: 25px;
+    font-size: 60px;
 }
 h1{
     background-color: #851944;
     text-align: center;
     color: #FAFFFA;
     border-bottom: 10px #000000 solid;
-    font-size: 60px;
 }
 
 h2{
@@ -57,8 +57,13 @@ main a{
 aside a{
     font-family: "Open Sans Condensed",sans-serif;
     color: inherit;
-    padding: 25px;
 }
+
+aside h1{
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
 aside {
     background-color: #3C1D3D;
     color: #F2FFFC;
