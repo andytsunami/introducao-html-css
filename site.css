@@ -89,3 +89,7 @@ em {
 strong {
     font-weight: bold;
 }
+
+li {
+    display: inline-block;
+}
