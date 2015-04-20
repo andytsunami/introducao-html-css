@@ -44,13 +44,7 @@ nav{
     color: #F2FFFC;
 }
 
-nav a,footer{
-    color: #F2FFFC;
-}
 
-footer{
-    background-color: #000000;
-}
 main a{
     color: #851944;
 }
@@ -69,10 +63,6 @@ aside {
     color: #F2FFFC;
     text-align: center;
     font-size: 30px;
-}
-
-aside, footer{
-    padding: 20px;
 }
 
 #corpo{
@@ -99,4 +89,9 @@ strong {
     color: #F2FFFC;
     padding: 20px;
 }
-    
+
+.artigo{
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
