@@ -96,9 +96,10 @@ strong {
     margin-bottom: 20px;
 }
 .leiaMais{
-    font-size: 1.5em;
-    padding: 5px;
-    margin: 5px;
+    padding: 8px;
+    margin: 16px;
     display: block;
-    background-color: #ccc;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E7E8;
 }
