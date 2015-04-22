@@ -48,17 +48,17 @@ nav{
 main a{
     color: #851944;
 }
-aside a{
+.navegacao a{
     font-family: "Open Sans Condensed",sans-serif;
     color: inherit;
 }
 
-aside h1{
+.navegacao h1{
     font-size: 30px;
     margin-bottom: 25px;
 }
 
-aside {
+.navegacao {
     background-color: #3C1D3D;
     color: #F2FFFC;
     text-align: center;
