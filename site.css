@@ -103,3 +103,7 @@ strong {
     text-align: center;
     background-color: #E6E7E8;
 }
+
+.tituloPrincipal, .navegacao{
+    text-transform: uppercase;
+}
