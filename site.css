@@ -51,6 +51,7 @@ main a{
 .navegacao a{
     font-family: "Open Sans Condensed",sans-serif;
     color: inherit;
+    text-transform: lowercase;
 }
 
 .navegacao h1{
