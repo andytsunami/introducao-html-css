@@ -129,3 +129,11 @@ strong {
 .tituloPrincipal, .navegacao{
     text-transform: uppercase;
 }
+
+.fiat{
+    float: left
+}
+
+.petrobras{
+    float: right;
+}
