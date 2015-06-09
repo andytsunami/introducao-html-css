@@ -85,6 +85,26 @@ strong {
     display: inline-block;
 }
 
+.sociais li a{
+    width: 40px !important; 
+    height: 40px !important; 
+    color: transparent;
+    font-size: 0;
+    padding: 40px 0 0 40px;
+}
+
+.sociais #twitter{
+    background: url("twitter.png") no-repeat scroll 0 0;
+}
+
+.sociais #github{
+    background: url("github.png") no-repeat scroll 0 0;
+}
+
+.sociais #linkedin{
+    background: url("linkedin.png") no-repeat scroll 0 0;
+}
+
 .rodape-pagina{
     background-color: #000;
     color: #F2FFFC;
@@ -96,6 +116,7 @@ strong {
     padding-bottom: 30px;
     margin-bottom: 20px;
 }
+
 .leiaMais{
     padding: 8px;
     margin: 16px;
