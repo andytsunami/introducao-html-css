@@ -129,6 +129,7 @@ h2{
 main{
     float: left;
     width: 80%;
+    padding-bottom: 80px;
 }
 
 .foto{
@@ -168,4 +169,8 @@ main{
     color: #F2FFFC;
     padding: 20px;
     clear: both;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
