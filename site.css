@@ -19,11 +19,6 @@ h1{
     border-bottom: 10px #000000 solid;
 }
 
-h2{
-    font-size: 30px;
-    clear: both;
-}
-
 p{
     text-align: justify;
     padding: 20px 0;
@@ -58,13 +53,6 @@ main a{
 .navegacao h1{
     font-size: 30px;
     margin-bottom: 25px;
-}
-
-.navegacao {
-    background-color: #3C1D3D;
-    color: #F2FFFC;
-    text-align: center;
-    font-size: 30px;
 }
 
 #corpo{
@@ -106,12 +94,6 @@ strong {
     background: url("linkedin.png") no-repeat scroll 0 0;
 }
 
-.rodape-pagina{
-    background-color: #000;
-    color: #F2FFFC;
-    padding: 20px;
-}
-
 .artigo{
     border-bottom: 1px solid #ccc;
     padding-bottom: 30px;
@@ -131,10 +113,53 @@ strong {
     text-transform: uppercase;
 }
 
+h2{
+    font-size: 30px;
+    clear: both;
+}
+
 .fiat{
     float: left
 }
 
 .petrobras{
     float: right;
+}
+
+main{
+    float: left;
+    width: 80%;
+}
+
+.foto{
+    float: right;
+    height: auto;
+}
+
+.foto img {
+    width: 100%;
+    height: 100%;
+    margin-bottom: -6px;
+}
+
+.navegacao {
+    background-color: #3C1D3D;
+    color: #F2FFFC;
+    text-align: center;
+    font-size: 30px;
+    float: right;
+    clear: right;
+}
+
+.foto, .navegacao{
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+    width: 20%;
+    box-sizing: border-box;
+}
+.rodape-pagina{
+    background-color: #000;
+    color: #F2FFFC;
+    padding: 20px;
+    clear: both;
 }
