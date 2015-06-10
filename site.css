@@ -134,6 +134,10 @@ main{
 .foto{
     float: right;
     height: auto;
+    width: 20%;
+    position: relative;
+    top: 0;
+    right: 0;
 }
 
 .foto img {
@@ -149,12 +153,14 @@ main{
     font-size: 30px;
     float: right;
     clear: right;
+    position: relative;
+    top: 0;
+    width: 17%;
 }
 
 .foto, .navegacao{
     border-left: 10px solid black;
     border-bottom: 10px solid black;
-    width: 20%;
     box-sizing: border-box;
 }
 .rodape-pagina{
