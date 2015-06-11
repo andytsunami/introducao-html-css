@@ -1,6 +1,17 @@
 
-.quadro img{
+.quadro{
+    width: 783px !important;
+    margin-left: 25%;
+    margin-top: 3%;
+}
+
+.quadro h3{
+    padding-bottom: 2%;
+}
+.quadro figure {
     padding: 10px;
     margin: 16px;
     border: 8px solid #000;
+    width: 320px;
+    display: inline-block;
 }
